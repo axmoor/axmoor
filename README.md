@@ -1,7 +1,5 @@
 # Axmoor
 
-> Structure. Motion. Design.
-
 ---
 
 ### 🧱 Skills
@@ -21,9 +19,9 @@
 
 ### 📫 Contact
 
-- **Email:** [hello.axmoor@proton.me](mailto:hello.axmoor@proton.me)
+- **Email:** [axmoor.contact@proton.me](mailto:axmoor.contact@proton.me)
 - **GitHub:** [github.com/axmoor](https://github.com/axmoor)
 
 ---
-
-*"از صفر شروع کردم، تا به دریا برسم. هنوز وسط راهم، اما شنا بلدم."*
+*از صفر شروع کردم. هنوز وسط راهم. ولی دیگه غرق نمی‌شم.*
+*From zero. Still in the middle. But I don't drown anymore.*
