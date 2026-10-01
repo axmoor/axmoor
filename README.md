@@ -23,7 +23,7 @@
 ---
 
 ### 📫 Contact
-- Email: axmoor@proton.me
+- Email: axmoor.contact@proton.me
 - GitHub: [github.com/axmoor](https://github.com/axmoor)
 
 ---
